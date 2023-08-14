@@ -1,6 +1,6 @@
 # Project portfolio
 
-Hello! Below are some of my personal projects. More information on my work projects can be found on my resume.
+Hello! Below are some of my personal projects. More information on my work projects, which are typically more complex, can be found on my resume.
 
 ## My projects
 ### **AR Business Card**
